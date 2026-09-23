@@ -130,7 +130,7 @@ Antes de executar o projeto, certifique-se de possuir as seguintes ferramentas i
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/raphaelcoelho-hub/imersao-qazando-cypress
 cd automacao-pratica
 ```
 
